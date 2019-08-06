@@ -1,7 +1,6 @@
 # SOSAssignment
 2nd Year Secure Operating Systems Assignment based on Multi-threading and Virtual Memory Management in C. 
 
-
 Operating Systems (IE2050) / Operating Systems Security (IE2032)
 Assignment - 2019
 TASK 01
