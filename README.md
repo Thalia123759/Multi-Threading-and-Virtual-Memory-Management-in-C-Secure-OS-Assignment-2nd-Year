@@ -26,26 +26,39 @@ Use printf statements wherever necessary, all possible errors should be handled 
 state any assumptions made and submit it as a hard copy.
 _______________________________________________________________
 
-TASK 02
-Introduction
+TASK 02 - Introduction
+
 Develop a program which implement an application which contain two entities: Lecturer and student.
 The two entities should access a shared location to view, upload, download and delete case studies.
+
 The lecturer should be able to perform the following task
+
 ➢ View the available case studies
+
 ➢ Upload new case studies
+
 ➢ Download available case studies
+
 ➢ Edit / Delete case studies
+
 The students should be able to perform the following tasks
+
 ➢ View the available case studies
+
 ➢ Download available case studies
+
 There should not be any interruptions for any process that takes place.
 Deliverables
+
 Write a C program to cater the above-mentioned requirements of the 02 entities.
 The program execution should have 02 command line argument.
+
 Argument :- action
 ./<executable_file_name> <Argument>
+  
 Example:- . / lecturer upload
 . / student download
+
 Use printf statements wherever necessary, all possible errors should be handled by printf statements,
 state any assumptions made and submit it as a hard copy.
 __________________________________________________________
